@@ -2,6 +2,7 @@
 
 ## Overview
 This is a comprehensive Reviews Dashboard built using Next.js, TypeScript, and Tailwind CSS. The application provides property managers with tools to view, manage, and showcase guest reviews across multiple platforms.
+Walkthrough: https://drive.google.com/file/d/1cyogCnhDroJrVUUezxiGpN9gYKjzyMcw/view?usp=drive_link
 
 ## Tech Stack
 - **Frontend**: Next.js 14 with TypeScript
