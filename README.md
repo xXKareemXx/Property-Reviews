@@ -1,7 +1,7 @@
-# Flex Living Reviews Dashboard - Setup Instructions
+# Property Reviews - Setup Instructions
 
 ## Overview
-This is a comprehensive Reviews Dashboard built for Flex Living using Next.js, TypeScript, and Tailwind CSS. The application provides property managers with tools to view, manage, and showcase guest reviews across multiple platforms.
+This is a comprehensive Reviews Dashboard built using Next.js, TypeScript, and Tailwind CSS. The application provides property managers with tools to view, manage, and showcase guest reviews across multiple platforms.
 
 ## Tech Stack
 - **Frontend**: Next.js 14 with TypeScript
@@ -13,7 +13,7 @@ This is a comprehensive Reviews Dashboard built for Flex Living using Next.js, T
 
 ## Project Structure
 ```
-flex-living-reviews-dashboard/
+Property-Reviews/
 ├── pages/
 │   ├── api/
 │   │   └── reviews/
